@@ -1,0 +1,20 @@
+Part 1
+Calculations: To plot the equation “1+2.1*t+0.5*-9.81*t^2”, you must plug in numbers for the variable t. Plug in 0 and you will get 1, plug in 2 and you will get -14.42. Observation: To get the equation, we had to know the initial velocity and the acceleration of free fall.
+ 
+
+Data:
+Initial height = 1 m
+Initial time = 0 s
+Initial velocity = 2.1 m/s
+Part 2
+Initial x = 0 m, initial velocity = -5 m/s, a = 5 m/s^2 is the red line in the graph. Observation: the velocity is negative; the line will start going slow then speeds up.
+Initial x = 0 m, initial velocity = 2 m/s, a = -4 m/s^2 is the blue line in the graph. Observation the velocity is positive, and the acceleration is negative, it will increase and then decrease.
+Initial x = 8 m, initial velocity = 4 m/s, a = 3 m/s^2 is the green line in the graph. Observation: the starting point is 8 m, and it will keep on increasing.
+Part 3
+Planet 1 – d) initial starting point = 19.82 m, c) initial velocity = -12.91 m/s, a) acceleration = 8.18 m/s^2
+b) Observation: The ball goes down at the end, but it goes up first at the beginning.
+ 
+
+Planet 2 – d) initial starting point = -17.27 m, c) initial velocity = 7.45 m/s, a) acceleration = 12.55 m/s^2 b) Observation: The ball goes down
+ 
+Results: Everything will increase at the beginning and then decrease the farther they go, while others just decrease after the beginning.
